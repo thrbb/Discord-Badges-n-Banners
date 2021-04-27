@@ -80,4 +80,4 @@ This is just a repository for easily finding official and unofficial Discord bad
 
 4. <a href="ko-fi.com/thrbb"><b>Support</b></a> my work ☕
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y24G04G)
+</br >[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y24G04G)
