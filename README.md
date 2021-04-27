@@ -3,7 +3,7 @@
 ## 🌎 Available Languages
 
 <a href="#">English</a>
-</br ><a href="https://github.com/thrbb/Discord-Badge-n-Banners/blob/main/portugues.md">Português</a>
+</br ><a href="https://github.com/thrbb/Discord-Badges-n-Banners/blob/main/portugues.md">Português</a>
 
 </br >
 
@@ -72,9 +72,9 @@ This is just a repository for easily finding official and unofficial Discord bad
 
 ## 💛 Contributing
 
-1. To propose a change in this document or subbimit a new translation you can <a href="https://github.com/thrbb/Discord-Badge-n-Banners/fork"><b>fork this repository</b></a> and submit a **pull request**;
+1. To propose a change in this document or subbimit a new translation you can <a href="https://github.com/thrbb/Discord-Badges-n-Banners/fork"><b>fork this repository</b></a> and submit a **pull request**;
 
-2. If you have a quetion about it or something else, ask me <a href="https://github.com/thrbb/Discord-Badge-n-Banners/issues/new"><b>here</b></a>!
+2. If you have a quetion about it or something else, ask me <a href="https://github.com/thrbb/Discord-Badges-n-Banners/issues/new"><b>here</b></a>!
 
 3. **Star** repositories you find good! ❤️
 
